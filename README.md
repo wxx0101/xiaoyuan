@@ -1,2 +1,2 @@
 # xiaoyuan
-校园超市
+Vue 校园超市
